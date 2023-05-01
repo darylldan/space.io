@@ -1,0 +1,57 @@
+TO-DO:
+/ Fix the asteroid ConcurrentModificationException
+/ Fix the bounds
+    - I think the fix is to add the current radius of the circle to the drawImg of render(), in both axis
+x Figure a way to zoom out when the asteroid is getting bigger
+/ Ask ma'am about the speed, since it will eventually reach zero
+/ Implement score at the top
+/ Implement powerups
+    - Figure out how the time works
+    - Immunity
+    - Speed
+/ Implement AI - TOM
+    - Get enemies to move at random direction for x amount of seconds.
+        - I will limit the time to i think 5 secs
+- Implement scoreboard
+
+
+/ Create powerup assets
+- Create 2 more asteroid variations
+- Create 2 more planet variations
+- Create 2 more enemy variations
+
+/ Implement the visual effect of immunity
+/ Implement zoom out
+    - Identify which quadrant the player is in
+/ Implement win condition
+    - Win condition:
+        - Time (3 minutes)
+        - If there are no more enemies
+- Implement start stage
+- Implement game over stage
+- Implement Instructions stage
+- Implement About stage
+
+
+Win Conditions:
+    - Survive for MAP_SIDE/20 seconds
+    - There are no more enemies
+    - A score of 2000 is reached
+
+/* ----------- TO-DO Tom ----------- */
+- Create a graphic for planet
+- Layout the start screen
+- Layout the Instructions screen
+- Layout the about screen
+- Layout the GameOver Scene
+
+
+Node Structure
+* Start Screen:
+(R) StackPane
+    GridPane
+        VBox
+            Canvas[Title, SpashText]
+            Canvas[Space]
+            Button
+    Canvas [BG]

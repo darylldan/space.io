@@ -1,0 +1,24 @@
+https://www.tutorialspoint.com/how-to-display-an-image-in-javafx
+https://docs.oracle.com/javase/8/javafx/api/overview-summary.html
+https://stackoverflow.com/questions/28287398/what-is-the-preferred-way-of-getting-the-frame-rate-of-a-javafx-application
+https://stackoverflow.com/questions/24700765/how-to-hide-a-pannable-scrollbar-in-javafx
+https://stackoverflow.com/questions/23052257/multiple-key-press-on-javafx-scene
+https://stackoverflow.com/questions/20840587/how-to-use-intersect-method-of-node-class-in-javafx
+https://www.baeldung.com/java-concurrentmodificationexception
+https://stackoverflow.com/questions/31148690/get-real-position-of-a-node-in-javafx
+https://stackoverflow.com/questions/10431981/remove-elements-from-collection-while-iterating
+https://stackoverflow.com/questions/12394213/scaling-in-javafx-and-scrollpanes
+https://stackoverflow.com/questions/43665149/javafx-scrollpane-and-scaling-of-the-content
+https://stackoverflow.com/questions/12523033/how-do-you-zoom-in-on-a-javafx-2-canvas-node
+https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
+https://stackoverflow.com/questions/18588536/javafx-how-to-scroll-scrollpane-to-have-node-in-the-middle-of-view-port
+https://www.tutorialspoint.com/how-to-add-custom-fonts-to-a-text-in-javafx
+https://stackoverflow.com/questions/35680978/cant-center-nodes-within-a-border-pane
+https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/HBox.html
+https://www.w3schools.com/java/java_files_read.asp
+https://stackoverflow.com/questions/14882806/center-text-on-canvas
+
+
+- All assets are hand made except for this:
+https://www.freepik.com/free-vector/lovely-galaxy-background-with-flat-design_2870095.htm#page=2&query=milkyway&position=41&from_view=search&track=sph
+https://www.dafont.com/boston.font
